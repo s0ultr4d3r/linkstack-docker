@@ -1,4 +1,4 @@
-FROM alpine:3.22.0
+FROM public.ecr.aws/docker/library/alpine:3.22.0
 LABEL maintainer="JulianPrieber"
 LABEL description="LinkStack Docker"
 
